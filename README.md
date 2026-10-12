@@ -36,6 +36,15 @@ I work across electronics, speech algorithms, and full-stack development. My res
 **Software** — TypeScript · React · Next.js · Node.js · PostgreSQL  
 **Hardware & simulation** — CST Studio Suite · Altium Designer · PCB and microwave circuits
 
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeeHongji/LeeHongji/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/LeeHongji/LeeHongji/output/github-snake.svg" width="100%" alt="A snake eating the squares in LeeHongji's GitHub contribution graph.">
+</picture>
+
+Updated daily with [snk](https://github.com/Platane/snk).
+
 <details>
 <summary>中文简介</summary>
 
