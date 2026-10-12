@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="208" viewBox="0 0 1200 208" role="img" aria-labelledby="title desc">
+  <title id="title">Software, AI agents, and RF research</title>
+  <desc id="desc">Hongji Li combines software development, AI agents, and RF and electromagnetic simulation. The connections represent areas of exploration, not measured results.</desc>
+  <rect width="1200" height="208" rx="16" fill="#161b22"/>
+  <g stroke="#30363d" stroke-width="2" fill="none">
+    <path d="M380 104 H440 M760 104 H820"/>
+  </g>
+  <g fill="none" stroke="#a5adb8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="160" y="42" width="48" height="36" rx="4"/><path d="M172 52 L180 60 L172 68 M188 68 H200"/>
+    <rect x="992" y="40" width="40" height="40" rx="4"/><rect x="1004" y="52" width="16" height="16" rx="2"/>
+    <path d="M984 48 H992 M984 60 H992 M984 72 H992 M1032 48 H1040 M1032 60 H1040 M1032 72 H1040 M1000 32 V40 M1012 32 V40 M1024 32 V40 M1000 80 V88 M1012 80 V88 M1024 80 V88"/>
+  </g>
+  <rect x="440" y="24" width="320" height="160" rx="12" fill="#202f43"/>
+  <g fill="none" stroke="#91b5e3" stroke-width="3" stroke-linecap="round">
+    <path d="M588 52 L600 64 L616 48 M600 64 L584 76"/>
+    <circle cx="584" cy="48" r="6" fill="#202f43"/><circle cx="600" cy="64" r="6" fill="#202f43"/><circle cx="620" cy="44" r="6" fill="#202f43"/><circle cx="580" cy="80" r="6" fill="#202f43"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="48" font-weight="600" text-anchor="middle">
+    <text x="184" y="148" fill="#e6edf3">Software</text>
+    <text x="600" y="148" fill="#91b5e3">AI agents</text>
+    <text x="1012" y="148" fill="#e6edf3">RF &amp; EM</text>
+  </g>
+</svg>
