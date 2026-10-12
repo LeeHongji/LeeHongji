@@ -1,0 +1,27 @@
+{
+  "palette_id": "hennis-card-v1",
+  "mode": "A",
+  "labels": ["Software", "AI agents", "RF & EM"],
+  "background": "#FAE6D6",
+  "dominant": "#8E6CBB",
+  "supporting": ["#4E3282", "#B69CD2"],
+  "accents": ["#A2CDF3"],
+  "balance": {"dominant": 0.6, "supporting": 0.3, "accent": 0.1},
+  "focal_surface": "the parameter sheet being carried by the keycap agent between software and the RF simulation model",
+  "surface_colors": {
+    "paper_background": "#FAE6D6",
+    "hennis_jacket": "#8E6CBB",
+    "jacket_panels_and_arrows": "#4E3282",
+    "supporting_planes": "#B69CD2",
+    "keycap_top": "#8E6CBB",
+    "keycap_shell_and_front_face": "#FFFFFF",
+    "parameter_sheet_focal_edge": "#A2CDF3",
+    "laptop_structure_and_outlines": "#191321",
+    "rf_device_body": "#8E6CBB",
+    "label_nameplates": "#FFFFFF",
+    "label_text": "#4E3282"
+  },
+  "label_pairs": [
+    {"labels": ["Software", "AI agents", "RF & EM"], "foreground": "#4E3282", "background": "#FFFFFF"}
+  ]
+}

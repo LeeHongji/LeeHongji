@@ -4,10 +4,9 @@
 
 I work across electronics, speech algorithms, and full-stack development. My research interests include AI-assisted RF, electromagnetic device, and integrated circuit design. I use AI agents to build software and explore engineering simulation, testing ideas through working prototypes and experiments.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/focus-dark.svg">
-  <img src="./assets/readme/focus-light.svg" width="100%" alt="My work connects software development, AI agents, and RF and electromagnetic simulation.">
-</picture>
+<p align="center">
+  <img src="./assets/readme/focus-hennis-v1.png" width="100%" alt="Hennis develops software while a keycap AI agent carries parameters to an RF and electromagnetic simulation model.">
+</p>
 
 ## Selected projects
 
